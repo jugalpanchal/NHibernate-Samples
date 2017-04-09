@@ -1,0 +1,6 @@
+*.user
+*.exe
+NHibernateSamples/AuditableData/bin
+NHibernateSamples/AuditableData/obj
+NHibernateSamples/packages
+NHibernateSamples/NHibernateSamples.v12.suo
