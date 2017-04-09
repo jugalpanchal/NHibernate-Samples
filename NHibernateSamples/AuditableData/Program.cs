@@ -1,4 +1,6 @@
-﻿using System;
+﻿using AuditableData.Fixture;
+using NHibernate;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +12,7 @@ namespace AuditableData
     {
         static void Main(string[] args)
         {
+            ISessionFactory sessionFactory = BootStrapper.GetSessionFactory();
         }
     }
 }

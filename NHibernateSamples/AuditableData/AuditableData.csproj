@@ -71,6 +71,7 @@
     <Compile Include="Entities\Car.cs" />
     <Compile Include="Entities\Manufacturer.cs" />
     <Compile Include="Entities\Variant.cs" />
+    <Compile Include="Fixture\BootStrapper.cs" />
     <Compile Include="Mappers\CarMap.cs" />
     <Compile Include="Mappers\ManufacturerMap.cs" />
     <Compile Include="Mappers\VariantMap.cs" />
