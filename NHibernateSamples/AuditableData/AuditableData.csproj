@@ -73,7 +73,7 @@
     <Compile Include="Entities\Variant.cs" />
     <Compile Include="Mappers\CarMap.cs" />
     <Compile Include="Mappers\ManufacturerMap.cs" />
-    <Compile Include="Mappers\Variant.cs" />
+    <Compile Include="Mappers\VariantMap.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
